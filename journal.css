@@ -1,0 +1,39 @@
+h1, h2 {
+    color: #cc6600;
+    border-bottom: thin dotted #888888;
+}
+h1 {
+    font-family: "Emblema one", sans-serif;
+    font-size: 220%;
+}
+h2 {
+    font-size: 130%;
+    font-weight: normal;
+}
+table {
+    margin-left: 20px;
+    margin-right: 20px;
+    border: thin solid black;
+    caption-side: bottom;
+    border-collapse: collapse;
+}
+td, th {
+    border: thin dotted gray;
+    padding: 5px;
+}
+th {
+    background-color: #cc6600;
+}
+tr.cellcolor {
+    background-color: #fcba7a;
+}
+caption {
+    font-style: italic;
+    padding-top: 8px;
+}
+table table th {
+    background-color: white;
+}
+li {
+    list-style-type: disc;
+}
