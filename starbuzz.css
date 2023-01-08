@@ -106,3 +106,13 @@ body {
   nav ul li.selected {
       background-color: #c8b99c;
   }
+  #award {
+    position: absolute;
+    top: 30px;
+    left: 365px;
+  }
+  #coupon {
+    position: fixed;
+    top: 300px;
+    left: 0px;
+  }
