@@ -639,7 +639,7 @@ nav{
 }
 .contact-info__item{
   text-decoration:none;
-  background:rgba(11,15,26,0.12);
+  background:rgba(11,15,26,0.25);
   padding:12px 16px;
   display:block;
   border-radius:var(--radius);
@@ -650,17 +650,17 @@ nav{
   font-size:0.58rem;
   letter-spacing:0.18em;
   text-transform:uppercase;
-  color:rgba(11,15,26,0.48);
+  color:rgba(245,242,236,0.7);
   margin-bottom:3px;
 }
-.contact-info__item-value{font-size:0.85rem;color:var(--ink);}
+.contact-info__item-value{font-size:0.85rem;color:var(--off-white);}
 .contact-info__footer{
   font-family:var(--font-display);
   font-weight:700;
   font-size:0.55rem;
   letter-spacing:0.16em;
   text-transform:uppercase;
-  color:rgba(11,15,26,0.3);
+  color:rgba(245,242,236,0.5);
   margin-top:18px;
 }
 .contact-form-wrap{width:100%;max-width:560px;}
